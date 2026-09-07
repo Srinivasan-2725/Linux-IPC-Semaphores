@@ -124,16 +124,15 @@ int main() {
 
 
 ## OUTPUT
-$ ./sem.o 
-```
-<img width="720" height="582" alt="image" src="https://github.com/user-attachments/assets/7c55a9a5-5e46-4663-87d5-0a140f16af81" />
-```
+$ ./sem.o  <br>
 
+<img width="720" height="582" alt="image" src="https://github.com/user-attachments/assets/60ee3c02-2879-4dc5-a44e-5b1ead7099fc" />
+
+<br>
 $ ipcs
-```
-<img width="557" height="158" alt="image" src="https://github.com/user-attachments/assets/5c1a5745-13f5-461f-b282-f69b64a1ef8e" />
-```
+<br>
 
+<img width="557" height="158" alt="image" src="https://github.com/user-attachments/assets/bd0b9d15-5af3-4e67-a152-8c395d17359a" />
 
 
 
