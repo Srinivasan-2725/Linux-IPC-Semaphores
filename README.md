@@ -1,4 +1,4 @@
-<img width="720" height="582" alt="image" src="https://github.com/user-attachments/assets/6d4d748e-7b35-4992-85ae-f5065128edb4" /># Linux-IPC-Semaphores
+# Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
 # AIM:
@@ -125,13 +125,14 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-
+```
 <img width="720" height="582" alt="image" src="https://github.com/user-attachments/assets/7c55a9a5-5e46-4663-87d5-0a140f16af81" />
-
+```
 
 $ ipcs
+```
 <img width="557" height="158" alt="image" src="https://github.com/user-attachments/assets/5c1a5745-13f5-461f-b282-f69b64a1ef8e" />
-
+```
 
 
 
